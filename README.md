@@ -50,15 +50,13 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=eoYuzii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" 
-    height="165" 
-    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=eoYuzii&theme=highcontrast&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" 
+    height="165"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" 
-    height="165" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" 
+    height="165"
   />
 
 </div>
