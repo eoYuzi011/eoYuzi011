@@ -1,12 +1,12 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/eoYuzi011.png" width="130px" style="border-radius: 5px; border: 2px solid #fff; filter: grayscale(1); box-shadow: 5px 5px 0px #fff;" />
+  <img src="https://github.com/eoYuzii.png" width="130px" style="border-radius: 5px; border: 2px solid #fff; filter: grayscale(1); box-shadow: 5px 5px 0px #fff;" />
 
   <br><br>
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=INIT+eoYuzi011.sys;Developer+&+Designer;Status:+Building+Ideas...&color=FFFFFF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=INIT+eoYuzii.sys;Developer+&+Designer;Status:+Building+Ideas...&color=FFFFFF" alt="Typing SVG" />
   </h1>
 
   <p><code>"Transformando ideias em soluções digitais inovadoras."</code></p>
@@ -15,7 +15,7 @@
 ---
 
 ### 📂 Root/Informações_do_Sistema
-> **User:** eoYuzi011 
+> **User:** eoYuzii 
 > **Role:** Developer & Designer (TI - Osasco/SP)  
 > **Motto:** Trabalho na área de TI. Ajudo quem precisa com soluções diretas e modernas. Estudo PowerShell/JS pra criar bots, mods e sistemas que funcionam de verdade. Performance + design. Amo DEUS 🙏✝️
 
@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/eoYuzi011?tab=repositories">
+  <a href="https://github.com/eoYuzii?tab=repositories">
     <img src="https://img.shields.io/badge/[_ACESSAR_REPOSITÓRIOS_]-000000?style=for-the-badge&logo=github&logoColor=white" height="45">
   </a>
 </div>
@@ -48,8 +48,8 @@
 
 ### 📊 Diagnóstico_de_Atividade
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzi011&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzi011&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzii&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
 </div>
 
 <br>
