@@ -55,9 +55,10 @@
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" 
-    height="165"
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzii&layout=compact&hide_border=true&border_radius=10&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
 
 </div>
 
