@@ -1,7 +1,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/eoYuzi.png" width="130px" style="border-radius: 5px; border: 2px solid #fff; filter: grayscale(1); box-shadow: 5px 5px 0px #fff;" />
+  <img src="https://github.com/eoYuzi011.png" width="130px" style="border-radius: 5px; border: 2px solid #fff; filter: grayscale(1); box-shadow: 5px 5px 0px #fff;" />
 
   <br><br>
 
@@ -15,7 +15,7 @@
 ---
 
 ### 📂 Root/Informações_do_Sistema
-> **User:** eoYuzi  
+> **User:** eoYuzi011 
 > **Role:** Developer & Designer (TI - Osasco/SP)  
 > **Motto:** Trabalho na área de TI. Ajudo quem precisa com soluções diretas e modernas. Estudo PowerShell/JS pra criar bots, mods e sistemas que funcionam de verdade. Performance + design. Amo DEUS 🙏✝️
 
@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/eoYuzi?tab=repositories">
+  <a href="https://github.com/eoYuzi011?tab=repositories">
     <img src="https://img.shields.io/badge/[_ACESSAR_REPOSITÓRIOS_]-000000?style=for-the-badge&logo=github&logoColor=white" height="45">
   </a>
 </div>
@@ -48,8 +48,8 @@
 
 ### 📊 Diagnóstico_de_Atividade
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzi&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzi&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eoYuzi011&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&icon_color=ffffff&bg_color=00000000" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoYuzi011&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c0c0c0&bg_color=00000000" height="150" alt="Langs" />
 </div>
 
 <br>
